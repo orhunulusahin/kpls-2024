@@ -1,6 +1,6 @@
 # Key Practices for the Language Scientist
 
-## Assignment Session 2
+## Assignment (Git)
 
 This is the assignment prompt for the Git session of the Key Practices for the Language Scientist course.
 We would like you to fork this repository into your own GitHub account, and make some changes, and send a pull request to the original repository. In the end, we'll have a short markdown-powered presentation to get to know each other a (tiny) little bit better!
