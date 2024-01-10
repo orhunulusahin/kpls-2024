@@ -6,6 +6,14 @@
 
 ---
 
+## Chengjia Ye
+
+- Institute & Department: DCC - Psycholinguistics
+- Favorite food: Hotpot
+- Thoughts on Git: Sounds cool but takes time to get used to.
+
+---  
+
 ## Roos Zwiers
 
 - Institute & Department:CLS 
