@@ -6,8 +6,8 @@
 
 ---
 
-## You!!
+## Roos Zwiers
 
-- Institute & Department:
-- Favorite food:
-- Thoughts on Git:
+- Institute & Department:CLS 
+- Favorite food: Indian food
+- Thoughts on Git: useful
