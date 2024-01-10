@@ -6,8 +6,11 @@
 
 ---
 
-## You!!
+## Femke Blankestijn
 
-- Institute & Department:
-- Favorite food:
-- Thoughts on Git:
+- Institute & Department: CLS 
+- Favorite food: Pizza
+- Thoughts on Git: New, slightly complicated, but interesting
+
+---
+## Slide
