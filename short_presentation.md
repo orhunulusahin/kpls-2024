@@ -6,8 +6,8 @@
 
 ---
 
-## You!!
+## Lois Dona
 
-- Institute & Department:
-- Favorite food:
-- Thoughts on Git:
+- Institute & Department: MPI Multimodal Language department and LEADS group
+- Favorite food: Indian curries
+- Thoughts on Git: Cool!
