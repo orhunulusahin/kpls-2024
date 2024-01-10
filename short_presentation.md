@@ -38,4 +38,12 @@
 
 ---
 
+## Kars Ligtenberg
+
+- Institute & Department: CLS 
+- Favourite food: Ramen
+- Thoughts on Git: Useful but will probably stick to GUIs in the future
+
+---
+
 ## Slide
