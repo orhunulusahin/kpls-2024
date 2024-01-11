@@ -38,12 +38,20 @@
 
 ---
 
+## Kars Ligtenberg
+
+- Institute & Department: CLS 
+- Favourite food: Ramen
+- Thoughts on Git: Useful but will probably stick to GUIs in the future
+
+---
+
 ## Wieke Harmsen
 
 - Institute & Department: CLS 
 - Favorite food: Quiche
 - Thoughts on Git: Very nice!
-
+- 
 ---
 
 ## Slide
