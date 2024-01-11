@@ -46,4 +46,12 @@
 
 ---
 
+## Wieke Harmsen
+
+- Institute & Department: CLS 
+- Favorite food: Quiche
+- Thoughts on Git: Very nice!
+- 
+---
+
 ## Slide
