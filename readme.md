@@ -36,9 +36,9 @@ This URL should contain both the repository name and your GitHub username, and s
 
 ## You!!
 
-- Institute & Department:
-- Favorite food:
-- Thoughts on Git:
+- Institute & Department: MLD
+- Favorite food: pork
+- Thoughts on Git: very useful
 
 ---
 ## Slide
