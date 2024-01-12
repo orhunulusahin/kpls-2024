@@ -62,4 +62,16 @@
 - 
 ---
 
-## Slide
+## Edoardo Gornetti
+
+- Institute & Department: MPI - LaCNS
+- Favorite food: Pretty much anything edible
+- Thoughts on Git: Mixed feelings. I need to play around with it a little bit. However, I definitely can see the advantages to version control for manuscripts and codes.
+---
+
+## New Slide
+
+- Institute & Department:  
+- Favorite food: 
+- Thoughts on Git: 
+---
