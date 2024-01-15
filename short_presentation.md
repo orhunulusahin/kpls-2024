@@ -62,4 +62,12 @@
 - 
 ---
 
+## Elena Markantonakis
+
+- Institute & Department: DCC- Psycholinguistics
+- Favorite food: Pasta
+- Thoughts on Git: Seems useful but I need practice to get used to it. 
+
+---
+
 ## Slide
