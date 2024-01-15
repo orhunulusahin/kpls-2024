@@ -63,3 +63,7 @@
 ---
 
 ## Slide
+
+- Institute & Department: CLS
+- Favorite food: Pizza
+- Thoughts on Git: Saved my bacon a few times over the past year - thanks Git!
