@@ -13,6 +13,13 @@
 - Thoughts on Git: Cool!
 
 ---
+## Moulshree Rana
+
+- Institute & Department: DCC Psycholinguistics group (Neurocognition of Bilingualism Lab)
+- Favorite food: Biryani 
+- Thoughts on Git: Straightforward and clean
+
+---
 
 ## Fleur Vissers
 
