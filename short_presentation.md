@@ -90,6 +90,14 @@
 
 ---
 
+## Anna Serke
+
+- Institute & Department: CLS 
+- Favorite food: chocolate
+- Thoughts on Git: will take me some time to get used to it but seems useful
+
+---
+
 ## Lilit Dulyan
 - Institute & Department: DCC 
 - Favorite food: Tolma
