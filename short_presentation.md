@@ -75,6 +75,11 @@
 - Thoughts on Git: Mixed feelings. I need to play around with it a little bit. However, I definitely can see the advantages to version control for manuscripts and codes.
 ---
 
+## Lilit Dulyan
+- Institute & Department: DCC 
+- Favorite food: Tolma
+- Thoughts on Git: I need to get used to it
+
 ## New Slide
 
 - Institute & Department:  
@@ -82,4 +87,3 @@
 - Thoughts on Git: 
 
 ---
-
