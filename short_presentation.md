@@ -110,3 +110,11 @@
 - Thoughts on Git: 
 
 ---
+
+## Ada Lopez
+
+- Institute & Department: CLS 
+- Favorite food: Pho
+- Thoughts on Git: Very handy! But I prefer using GUI over the command line
+
+---
