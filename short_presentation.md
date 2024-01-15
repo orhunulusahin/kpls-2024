@@ -59,8 +59,14 @@
 - Institute & Department: CLS 
 - Favorite food: Quiche
 - Thoughts on Git: Very nice!
-- 
+
 ---
+
+## Michelle Czajkowski
+
+- Institute & Department: CLS
+- Favorite food: Pizza
+- Thoughts on Git: Saved my bacon a few times over the past year - thanks Git!
 
 ## Edoardo Gornetti
 
@@ -74,4 +80,6 @@
 - Institute & Department:  
 - Favorite food: 
 - Thoughts on Git: 
+
 ---
+
