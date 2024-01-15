@@ -82,6 +82,14 @@
 - Thoughts on Git: Mixed feelings. I need to play around with it a little bit. However, I definitely can see the advantages to version control for manuscripts and codes.
 ---
 
+## Elena Markantonakis
+
+- Institute & Department: DCC- Psycholinguistics
+- Favorite food: Pasta
+- Thoughts on Git: Seems useful but I need practice to get used to it. 
+
+---
+
 ## Lilit Dulyan
 - Institute & Department: DCC 
 - Favorite food: Tolma
