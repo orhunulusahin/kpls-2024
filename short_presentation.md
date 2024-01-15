@@ -110,3 +110,11 @@
 - Thoughts on Git: 
 
 ---
+
+## Julia Chauvet
+
+- Institute & Department: MPI - Psychology of Language
+- Favorite food: Something delicious, something nutritious
+- Thoughts on Git: Helpful for working on different machines!
+
+---
