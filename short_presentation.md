@@ -62,4 +62,10 @@
 - 
 ---
 
+## Lilit Dulyan
+- Institute & Department: DCC 
+- Favorite food: Tolma
+- Thoughts on Git: I need to get used to it
+---
+
 ## Slide
