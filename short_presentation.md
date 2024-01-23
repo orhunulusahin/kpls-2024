@@ -102,6 +102,14 @@
 
 ---
 
+## Lanmiao Liu
+
+- Institute & Department: MLD
+- Favorite food: pork
+- Thoughts on Git: very useful
+
+---
+
 ## Lilit Dulyan
 - Institute & Department: DCC 
 - Favorite food: Tolma
