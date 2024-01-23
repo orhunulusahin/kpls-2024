@@ -13,6 +13,7 @@
 - Thoughts on Git: Cool!
 
 ---
+
 ## Moulshree Rana
 
 - Institute & Department: DCC Psycholinguistics group (Neurocognition of Bilingualism Lab)
@@ -75,11 +76,14 @@
 - Favorite food: Pizza
 - Thoughts on Git: Saved my bacon a few times over the past year - thanks Git!
 
+---
+
 ## Edoardo Gornetti
 
 - Institute & Department: MPI - LaCNS
 - Favorite food: Pretty much anything edible
 - Thoughts on Git: Mixed feelings. I need to play around with it a little bit. However, I definitely can see the advantages to version control for manuscripts and codes.
+
 ---
 
 ## Elena Markantonakis
@@ -103,12 +107,6 @@
 - Favorite food: Tolma
 - Thoughts on Git: I need to get used to it
 
-## New Slide
-
-- Institute & Department:  
-- Favorite food: 
-- Thoughts on Git: 
-
 ---
 
 ## Ada Lopez
@@ -116,5 +114,13 @@
 - Institute & Department: CLS 
 - Favorite food: Pho
 - Thoughts on Git: Very handy! But I prefer using GUI over the command line
+
+---
+
+## Julia Chauvet
+
+- Institute & Department: MPI - Psychology of Language
+- Favorite food: Something delicious, something nutritious
+- Thoughts on Git: Helpful for working on different machines!
 
 ---
