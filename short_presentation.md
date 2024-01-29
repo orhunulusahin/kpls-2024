@@ -132,3 +132,9 @@
 - Thoughts on Git: Helpful for working on different machines!
 
 ---
+
+## Hasan Dikyuva
+
+- Institute & Department: MPI - Multimodal Language Department
+- Favorite food: Fasulye ve Pilav
+- Thoughts on Git: no need 
